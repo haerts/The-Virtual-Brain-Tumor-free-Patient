@@ -1,8 +1,6 @@
 # The-Virtual-Brain-Tumor-free-Patient
 Code used for postprocessing analyses in manuscript "Modeling brain dynamics after tumor resection using The Virtual Brain" (Aerts et al. 2019; bioRxiv).
 
-## Workflow
-
 ## Paper part 1: Optimizing model parameters after surgery and evaluating stability from pre- to post-operative assessment
 
 (1) Adjust your SC matrices to run with TVBii code (for TVBii code see Schirner et al. 2018 eLife, https://elifesciences.org/articles/28927, https://github.com/BrainModes/The-Hybrid-Virtual-Brain)
